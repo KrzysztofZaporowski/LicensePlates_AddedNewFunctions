@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "DSR.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

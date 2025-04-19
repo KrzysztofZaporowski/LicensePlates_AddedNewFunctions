@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ZDR.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "TKI.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
